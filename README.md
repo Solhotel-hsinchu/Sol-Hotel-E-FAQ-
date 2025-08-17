@@ -102,9 +102,10 @@
         ★ No EV charging station available in the hotel.`
   },
   {
-    q: "What is the breakfast menu and service time?",
+    q: "Breakfast Contents ・ Serving Hours ・ Breakfast Add-on Fee??",
     a: `▪ Buffet with Chinese, Western, and Japanese selections.<br>
         ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br>
+        ▪ The additional charge for breakfast is NT$385 per person.<br>
         During peak holiday periods, dining time may be limited to 1 hour.`
   },
   {
@@ -128,8 +129,8 @@
   {
     q: "What are the child surcharges?",
     a: `▪ Infants under 1 may use baby cots (limited, by request).<br>
-        ▪ Under 110 cm: Free of charge<br>
-        ▪ 110–140 cm: NT$220<br>
+        ▪ Under 109 cm: Free of charge<br>
+        ▪ 110–139 cm: NT$220<br>
         ▪ Over 140 cm: Charged as adult, extra bed recommended<br>
         ▪ Extra bed with breakfast: NT$880 (NT$1200 during Chinese New Year), without breakfast: NT$550 (NT$1000 during CNY)`
   },
