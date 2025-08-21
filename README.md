@@ -97,7 +97,6 @@
      {
     q: "Is there parking and EV charging available?",
     a: `Free flat parking is available for hotel guests on B1 (height limit 2.2m). You may park directly upon arrival and take the elevator to the lobby for check-in. Parking is limited and cannot be reserved in advance.<br>
-        If full, you can park at two nearby public lots within 5 minutes' walk: under Dongda Rd. Bridge (東大路橋下停車場-entrance on Zhongyang Rd.) or Fu-hou Parking Lot(府後停車場). The hotel will cover the parking fee (please request a parking voucher at the front desk before 11:00 on checkout day).<br><br>
         ★ Parking is in high demand during Chinese New Year and weekends. We apologize for any inconvenience caused by delays.<br>
         ★ No EV charging station available in the hotel.`
   },
