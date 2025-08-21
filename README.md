@@ -96,7 +96,7 @@
     const qaData = [
      {
     q: "Is there parking and EV charging available?",
-    a: `Free flat parking is available for hotel guests on B1 (height limit 2.2m). You may park directly upon arrival and take the elevator to the lobby for check-in. Parking is limited and cannot be reserved in advance.<br>
+    a: `Free flat parking is available for hotel guests on B1 (height limit 2.2m). You may park directly upon arrival and take the elevator to the lobby for check-in. Parking is limited and cannot be reserved in advance.<br><br>
         ★ Parking is in high demand during Chinese New Year and weekends. We apologize for any inconvenience caused by delays.<br>
         ★ No EV charging station available in the hotel.`
   },
@@ -116,8 +116,8 @@
   },
   {
     q: "Do you offer baby bathtubs and bottle sterilizers?",
-    a: `Yes, baby bathtubs (with small stool) and bottle sterilizers are available for free rental.<br>
-        Quantities are limited – please reserve in advance.`
+    a: `▪ Yes, baby bathtubs (with small stool) and bottle sterilizers are available for free rental.<br>
+        ▪ Quantities are limited – please reserve in advance.`
   },
   {
     q: "Do bathrooms have bathtubs?",
@@ -152,8 +152,8 @@
   },
   {
     q: "What are the check-in/out times and luggage storage policy?",
-    a: `Check-in: after 15:00; Check-out: before 11:00.<br>
-        Luggage storage available at the front desk before check-in and after check-out.`
+    a: `▪ Check-in: after 15:00; Check-out: before 11:00.<br>
+        ▪ Luggage storage available at the front desk before check-in and after check-out.`
   }
 
     ];
