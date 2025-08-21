@@ -103,7 +103,7 @@
   {
     q: "Breakfast Contents ・ Serving Hours?",
     a: `▪ Buffet with Chinese, Western, and Japanese selections.<br>
-        ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br>
+        ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br><br>
         ★ During peak holiday periods, dining time may be limited to 1 hour.`
   },
   {
@@ -137,7 +137,7 @@
     a: `▪ With breakfast: NT$880 per person (NT$1200 during CNY)<br>
         Without extra bed: NT$500 (NT$800 during CNY)<br><br>
         ▪ Without breakfast: NT$550 (NT$1000 during CNY)<br>
-        Without extra bed: NT$400 (NT$500 during CNY)<br>
+        Without extra bed: NT$400 (NT$500 during CNY)<br><br>
         ★ Standard Double Rooms do not support extra beds.`
   },
   {
