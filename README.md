@@ -101,11 +101,10 @@
         ★ No EV charging station available in the hotel.`
   },
   {
-    q: "Breakfast Contents ・ Serving Hours ・ Breakfast Add-on Fee??",
+    q: "Breakfast Contents ・ Serving Hours?",
     a: `▪ Buffet with Chinese, Western, and Japanese selections.<br>
         ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br>
-        ▪ The additional charge for breakfast is NT$385 per person.<br>
-        During peak holiday periods, dining time may be limited to 1 hour.`
+        ★ During peak holiday periods, dining time may be limited to 1 hour.`
   },
   {
     q: "Do you provide baby cots and bed guards?",
