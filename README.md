@@ -97,14 +97,14 @@
      {
     q: "Is there parking and EV charging available?",
     a: `Free flat parking is available for hotel guests on B1 (height limit 2.2m). You may park directly upon arrival and take the elevator to the lobby for check-in. Parking is limited and cannot be reserved in advance.<br><br>
-        ★ Parking is in high demand during Chinese New Year and weekends. We apologize for any inconvenience caused by delays.<br>
-        ★ No EV charging station available in the hotel.`
+        ⭐ Parking is in high demand during Chinese New Year and weekends. We apologize for any inconvenience caused by delays.<br>
+        ⭐ No EV charging station available in the hotel.`
   },
   {
     q: "Breakfast Contents ・ Serving Hours?",
     a: `▪ Buffet with Chinese, Western, and Japanese selections.<br>
         ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br><br>
-        ★ During peak holiday periods, dining time may be limited to 1 hour.`
+       ⭐ During peak holiday periods, dining time may be limited to 1 hour.`
   },
   {
     q: "Do you provide baby cots and bed guards?",
@@ -138,7 +138,7 @@
         Without extra bed: NT$500 (NT$800 during CNY)<br><br>
         ▪ Without breakfast: NT$550 (NT$1000 during CNY)<br>
         Without extra bed: NT$400 (NT$500 during CNY)<br><br>
-        ★ Standard Double Rooms do not support extra beds.`
+        ⭐ Standard Double Rooms do not support extra beds.`
   },
   {
     q: "What is the definition of weekday and weekend rates?",
@@ -153,7 +153,7 @@
   {
     q: "What are the check-in/out times and luggage storage policy?",
     a: `▪ Check-in: after 15:00; Check-out: before 11:00.<br>
-        ★ Run of House Check-in after 19:00.<br>
+        ⭐ Run of House Check-in after 19:00.<br>
         ▪ Luggage storage available at the front desk before check-in and after check-out.`
   }
 
