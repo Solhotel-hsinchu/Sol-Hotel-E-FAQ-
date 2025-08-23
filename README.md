@@ -153,6 +153,7 @@
   {
     q: "What are the check-in/out times and luggage storage policy?",
     a: `▪ Check-in: after 15:00; Check-out: before 11:00.<br>
+        ★ Run of House Check-in after 19:00.<br>
         ▪ Luggage storage available at the front desk before check-in and after check-out.`
   }
 
